@@ -1,0 +1,67 @@
+{
+  "products": [
+    {
+      "image": "1.jpg",
+      "name": "Brownie",
+      "price": 900,
+      "article": "T1",
+      "available": true
+    },
+    {
+      "image": "2.jpg",
+      "name": "Brownie 2",
+      "price": 750,
+      "article": "T2",
+      "available": true
+    },
+    {
+      "image": "3.jpg",
+      "name": "Fairy Guardian",
+      "price": 1000,
+      "article": "T3",
+      "available": false
+    },
+    {
+      "image": "4.jpg",
+      "name": "Mascot",
+      "price": 700,
+      "article": "T4",
+      "available": true
+    },
+    {
+      "image": "5.jpg",
+      "name": "Swamp Elf",
+      "price": 650,
+      "article": "T5",
+      "available": false
+    },
+    {
+      "image": "6.jpg",
+      "name": "Wood Elf",
+      "price": 700,
+      "article": "T6",
+      "available": true
+    },
+    {
+      "image": "77.jpg",
+      "name": "Forest Nymph",
+      "price": 840,
+      "article": "T7",
+      "available": true
+    },
+    {
+      "image": "8.jpg",
+      "name": "Elf noisemaker",
+      "price": 970,
+      "article": "T8",
+      "available": true
+    },
+    {
+      "image": "9.jpg",
+      "name": "Child",
+      "price": 830,
+      "article": "T9",
+      "available": true
+    }
+  ]
+}
